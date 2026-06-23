@@ -5,7 +5,6 @@ class MainActivity {
     private val repository = WeatherRepository()
 
     fun afficherMeteo() {
-
         val weather = repository.getWeather("Montréal")
 
         println("Ville : ${weather.city}")
