@@ -24,3 +24,12 @@ Application Android permettant de consulter la météo d'une ville.
 - Parsing JSON
 - Architecture MVVM
 - Android UI
+  
+## 📱 Écrans
+
+- Splash Screen
+- Recherche de ville
+- Météo actuelle
+- Prévisions sur 5 jours
+- Détails météo
+- Paramètres
